@@ -1,0 +1,7 @@
+{
+  "name": "chulca",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
